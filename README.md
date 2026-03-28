@@ -10,7 +10,7 @@
 
 
 ## 🚀 Project Overview
-This repository contains the complete portfolio for the Digital Literacy (CSE0001) course.As a Student Digital Ambassador, my goal is to help peers navigate the digital landscape safely and professionally . This portfolio documents my journey through five key modules, ranging from digital design to cybersecurity awareness.
+This repository contains the complete portfolio for the Digital Literacy (CSE0001) course. As a Student Digital Ambassador, my goal is to help peers navigate the digital landscape safely and professionally . This portfolio documents my journey through five key modules, ranging from digital design to cybersecurity awareness.
 
 
 
@@ -34,7 +34,7 @@ This project is organized into specific folders for each module as per the assig
 Created a one-page visual resource using **Canva** to define digital literacy and promote safe internet practices for first-year students.
 
 ### 🔹 Module 2: Professional Identity
-Established a technical presence on **GitHub**, LinkedIn, and Kaggle.My GitHub profile includes a customized README detailing my focus on AI & ML.
+Established a technical presence on **GitHub**, LinkedIn, and Kaggle. My GitHub profile includes a customized README detailing my focus on AI & ML.
 
 ### 🔹 Module 3: Collaboration & Coding
 Completed beginner-level Python challenges on hackerRank and developed a 5-question awareness quiz using Google Forms.
