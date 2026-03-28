@@ -57,5 +57,5 @@ Through this project, I have transitioned from a digital user to a digital creat
 ## 📚 References & Tools
 * Design: [Canva](https://www.canva.com) 
 * Version Control: [GitHub](https://github.com) 
-* Coding:[HackerRank](https://www.hackerrank.com)
-* Safety:[National Cyber Crime Portal](https://cybercrime.gov.in) 
+* Coding: [HackerRank](https://www.hackerrank.com)
+* Safety: [National Cyber Crime Portal](https://cybercrime.gov.in) 
